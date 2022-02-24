@@ -67,6 +67,7 @@
      <Compile Include="Assets\LuaFramework\ToLua\Editor\ToLuaMenu.cs" />
      <Compile Include="Assets\LuaFramework\ToLua\Editor\ToLuaTree.cs" />
      <None Include="Assets\link.xml" />
+     <None Include="Assets\StreamingAssets\files.txt" />
      <None Include="Assets\LuaFramework\ToLua\readme.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -75,10 +76,10 @@
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="CString">
- <HintPath>C:/Users/zhaomingyuan/Desktop/我的百宝箱/ToLuaLearn/LuaFramework_UGUI-master/Assets/Plugins/CString.dll</HintPath>
+ <HintPath>C:/WorkCode/ToLuaLearn/LuaFramework_UGUI-master/Assets/Plugins/CString.dll</HintPath>
  </Reference>
  <Reference Include="Debugger">
- <HintPath>C:/Users/zhaomingyuan/Desktop/我的百宝箱/ToLuaLearn/LuaFramework_UGUI-master/Assets/Plugins/Debugger.dll</HintPath>
+ <HintPath>C:/WorkCode/ToLuaLearn/LuaFramework_UGUI-master/Assets/Plugins/Debugger.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>D:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
